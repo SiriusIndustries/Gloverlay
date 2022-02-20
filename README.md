@@ -1,4 +1,5 @@
 # Gloverlay
-A library for creating window overlays with Electron, for OpenGL.
+A library for creating browser overlays on top of OpenGL instances, pronounced Glow-verlay or Glou-verlay.
 
-### Installation
+### Setup
+A Gloverlay project can be set up by
